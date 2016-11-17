@@ -1,0 +1,39 @@
+[
+	{
+	"id": 1,
+	"name": "Blue Theme",
+	"description": "Some information here",
+	"type": "html5",
+	"price": 9.99,
+	"images": [{
+		"name": "one.jpg"
+	},{
+		"name": "one.jpg"
+	},{
+		"name": "one.jpg"
+	},{
+		"name": "one.jpg"
+	},{
+		"name": "one.jpg"
+	}]
+},{
+	"id": 2,
+	"name": "White Theme",
+	"description": "Some information here",
+	"type": "html5",
+	"price": 9.99,
+	"images": [{
+		"name": "one.jpg"
+	}],
+	"soldOut": true
+},{
+	"id": 3,
+	"name": "Red Theme",
+	"description": "Some information here",
+	"type": "html5",
+	"price": 9.99,
+	"images": [{
+		"name": "one.jpg"
+	}]
+}
+]
